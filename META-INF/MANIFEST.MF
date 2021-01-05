@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: com.company.Main
+Class-Path: C:\Users\HISBRO\OneDrive\Study\Vaadin\ordermate-x\appconfig\
+ src\com\company
+
